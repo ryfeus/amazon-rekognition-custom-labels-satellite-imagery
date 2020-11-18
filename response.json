@@ -1,0 +1,436 @@
+{
+    "CustomLabels": [
+        {
+            "Name": "active field",
+            "Confidence": 92.25800323486328,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.05948999896645546,
+                    "Height": 0.09736000001430511,
+                    "Left": 0.40733999013900757,
+                    "Top": 0.178739994764328
+                }
+            }
+        },
+        {
+            "Name": "non-active field",
+            "Confidence": 91.95500183105469,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.057750001549720764,
+                    "Height": 0.08927000313997269,
+                    "Left": 0.7994899749755859,
+                    "Top": 0.43397998809814453
+                }
+            }
+        },
+        {
+            "Name": "non-active field",
+            "Confidence": 90.9739990234375,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.06338000297546387,
+                    "Height": 0.09324999898672104,
+                    "Left": 0.7910299897193909,
+                    "Top": 0.08251000195741653
+                }
+            }
+        },
+        {
+            "Name": "active field",
+            "Confidence": 89.87300109863281,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.06280999630689621,
+                    "Height": 0.09470000118017197,
+                    "Left": 0.6226099729537964,
+                    "Top": 0.5210700035095215
+                }
+            }
+        },
+        {
+            "Name": "active field",
+            "Confidence": 89.84000396728516,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.06009000167250633,
+                    "Height": 0.09387999773025513,
+                    "Left": 0.5462200045585632,
+                    "Top": 0.7170000076293945
+                }
+            }
+        },
+        {
+            "Name": "active field",
+            "Confidence": 89.07099914550781,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.05916000157594681,
+                    "Height": 0.09860000014305115,
+                    "Left": 0.09041000157594681,
+                    "Top": 0.6464800238609314
+                }
+            }
+        },
+        {
+            "Name": "active field",
+            "Confidence": 87.42500305175781,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.06009000167250633,
+                    "Height": 0.09444999694824219,
+                    "Left": 0.5717599987983704,
+                    "Top": 0.20322999358177185
+                }
+            }
+        },
+        {
+            "Name": "active field",
+            "Confidence": 85.62699890136719,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.06072000041604042,
+                    "Height": 0.09437999874353409,
+                    "Left": 0.24106000363826752,
+                    "Top": 0.15429000556468964
+                }
+            }
+        },
+        {
+            "Name": "active field",
+            "Confidence": 82.58200073242188,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.06656999886035919,
+                    "Height": 0.10219000279903412,
+                    "Left": 0.12053000181913376,
+                    "Top": 0.4536600112915039
+                }
+            }
+        },
+        {
+            "Name": "active field",
+            "Confidence": 78.85100555419922,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.053289998322725296,
+                    "Height": 0.08296000212430954,
+                    "Left": 0.6851000189781189,
+                    "Top": 0.5866699814796448
+                }
+            }
+        },
+        {
+            "Name": "semi-active field",
+            "Confidence": 75.7239990234375,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.0697999969124794,
+                    "Height": 0.11082000285387039,
+                    "Left": 0.47641000151634216,
+                    "Top": 0.6532400250434875
+                }
+            }
+        },
+        {
+            "Name": "non-active field",
+            "Confidence": 72.66999816894531,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.050859998911619186,
+                    "Height": 0.08614999800920486,
+                    "Left": 0.5365599989891052,
+                    "Top": 0.30584999918937683
+                }
+            }
+        },
+        {
+            "Name": "active field",
+            "Confidence": 71.02100372314453,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.04512999951839447,
+                    "Height": 0.11889000236988068,
+                    "Left": 0.07043000310659409,
+                    "Top": 0.11768999695777893
+                }
+            }
+        },
+        {
+            "Name": "semi-active field",
+            "Confidence": 64.6259994506836,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.05714999884366989,
+                    "Height": 0.09737999737262726,
+                    "Left": 0.6327099800109863,
+                    "Top": 0.25929000973701477
+                }
+            }
+        },
+        {
+            "Name": "semi-active field",
+            "Confidence": 63.22199630737305,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.05451999977231026,
+                    "Height": 0.08501999825239182,
+                    "Left": 0.14177000522613525,
+                    "Top": 0.1945600062608719
+                }
+            }
+        },
+        {
+            "Name": "active field",
+            "Confidence": 62.00400161743164,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.06026000156998634,
+                    "Height": 0.08121000230312347,
+                    "Left": 0.4698899984359741,
+                    "Top": 0.9179199934005737
+                }
+            }
+        },
+        {
+            "Name": "semi-active field",
+            "Confidence": 59.42300033569336,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.055309999734163284,
+                    "Height": 0.08817999809980392,
+                    "Left": 0.1800999939441681,
+                    "Top": 0.09446000307798386
+                }
+            }
+        },
+        {
+            "Name": "semi-active field",
+            "Confidence": 58.7869987487793,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.0650700032711029,
+                    "Height": 0.10693000257015228,
+                    "Left": 0.09893999993801117,
+                    "Top": 0.28224000334739685
+                }
+            }
+        },
+        {
+            "Name": "active field",
+            "Confidence": 57.099998474121094,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.057089999318122864,
+                    "Height": 0.0934000015258789,
+                    "Left": 0.1651100069284439,
+                    "Top": 0.3509399890899658
+                }
+            }
+        },
+        {
+            "Name": "active field",
+            "Confidence": 54.597999572753906,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.06679999828338623,
+                    "Height": 0.08003000169992447,
+                    "Left": 0.2731199860572815,
+                    "Top": 0.757390022277832
+                }
+            }
+        },
+        {
+            "Name": "active field",
+            "Confidence": 54.022003173828125,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.060679998248815536,
+                    "Height": 0.09505999833345413,
+                    "Left": 0.6462399959564209,
+                    "Top": 0.008349999785423279
+                }
+            }
+        },
+        {
+            "Name": "active field",
+            "Confidence": 53.35300064086914,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.045090001076459885,
+                    "Height": 0.09342999756336212,
+                    "Left": 0.7328799962997437,
+                    "Top": 0.8991000056266785
+                }
+            }
+        },
+        {
+            "Name": "semi-active field",
+            "Confidence": 53.04300308227539,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.060520000755786896,
+                    "Height": 0.09060999751091003,
+                    "Left": 0.709559977054596,
+                    "Top": 0.7395300269126892
+                }
+            }
+        },
+        {
+            "Name": "semi-active field",
+            "Confidence": 49.25600051879883,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.05417000129818916,
+                    "Height": 0.0847800001502037,
+                    "Left": 0.7735099792480469,
+                    "Top": 0.8105199933052063
+                }
+            }
+        },
+        {
+            "Name": "non-active field",
+            "Confidence": 48.94900131225586,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.06530000269412994,
+                    "Height": 0.09531000256538391,
+                    "Left": 0.2994999885559082,
+                    "Top": 0.8989099860191345
+                }
+            }
+        },
+        {
+            "Name": "semi-active field",
+            "Confidence": 46.08100128173828,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.06623999774456024,
+                    "Height": 0.09644000232219696,
+                    "Left": 0.6578999757766724,
+                    "Top": 0.4285599887371063
+                }
+            }
+        },
+        {
+            "Name": "semi-active field",
+            "Confidence": 43.34299850463867,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.06202000007033348,
+                    "Height": 0.0990699976682663,
+                    "Left": 0.3137199878692627,
+                    "Top": 0.6372600197792053
+                }
+            }
+        },
+        {
+            "Name": "non-active field",
+            "Confidence": 42.93299865722656,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.05886000022292137,
+                    "Height": 0.09376999735832214,
+                    "Left": 0.58406001329422,
+                    "Top": 0.6191400289535522
+                }
+            }
+        },
+        {
+            "Name": "semi-active field",
+            "Confidence": 42.14500045776367,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.039170000702142715,
+                    "Height": 0.09307000041007996,
+                    "Left": 0.20316000282764435,
+                    "Top": 0.2549999952316284
+                }
+            }
+        },
+        {
+            "Name": "semi-active field",
+            "Confidence": 39.09400177001953,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.060679998248815536,
+                    "Height": 0.09505999833345413,
+                    "Left": 0.6462399959564209,
+                    "Top": 0.008349999785423279
+                }
+            }
+        },
+        {
+            "Name": "semi-active field",
+            "Confidence": 35.70800018310547,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.05276000127196312,
+                    "Height": 0.08128999918699265,
+                    "Left": 0.1251700073480606,
+                    "Top": 0.5687400102615356
+                }
+            }
+        },
+        {
+            "Name": "semi-active field",
+            "Confidence": 35.558998107910156,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.045090001076459885,
+                    "Height": 0.09342999756336212,
+                    "Left": 0.7328799962997437,
+                    "Top": 0.8991000056266785
+                }
+            }
+        },
+        {
+            "Name": "semi-active field",
+            "Confidence": 35.48699951171875,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.06679999828338623,
+                    "Height": 0.08003000169992447,
+                    "Left": 0.2731199860572815,
+                    "Top": 0.757390022277832
+                }
+            }
+        },
+        {
+            "Name": "non-active field",
+            "Confidence": 28.784000396728516,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.05276000127196312,
+                    "Height": 0.08128999918699265,
+                    "Left": 0.1251700073480606,
+                    "Top": 0.5687400102615356
+                }
+            }
+        },
+        {
+            "Name": "non-active field",
+            "Confidence": 26.74599838256836,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.06202000007033348,
+                    "Height": 0.0990699976682663,
+                    "Left": 0.3137199878692627,
+                    "Top": 0.6372600197792053
+                }
+            }
+        },
+        {
+            "Name": "non-active field",
+            "Confidence": 24.51799964904785,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.06623999774456024,
+                    "Height": 0.09644000232219696,
+                    "Left": 0.6578999757766724,
+                    "Top": 0.4285599887371063
+                }
+            }
+        }
+    ]
+}
